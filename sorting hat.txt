@@ -1,0 +1,5 @@
+Moon or Sun?,Moon,Sun,S,G,
+Strong or Proud?,Strong,Proud,H,R,
+Friend or Foe?,Friend,Foe,H,S,
+Brains or Brawn?,Brains,Brawn,R,G,
+END,
